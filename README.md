@@ -12,6 +12,8 @@
   <a href="https://pickle.com"><img src="./public/assets/button_we.png" width="105" alt="Pickle Website"></a>&ensp;<a href="https://x.com/intent/user?screen_name=leinadpark"><img src="./public/assets/button_xe.png" width="109" alt="Follow Daniel"></a>
 </p>
 
+Join Discord Channel! [Discord](https://discord.gg/UCZH5B5Hpd)
+
 🤖 **Fast, light & open-source**—Glass lives on your desktop, sees what you see, listens in real time, understands your context, and turns every moment into structured knowledge.
 
 💬 **Proactive in meetings**—it surfaces action items, summaries, and answers the instant you need them.
@@ -24,6 +26,8 @@
 
 ## Quick Start (Local Build)
 
+First download & install [Python](https://www.python.org/downloads/) and [Node](https://nodejs.org/en/download).
+If you are using Windows, you need to also install [Build Tools for Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
   ```bash
   npm run setup
